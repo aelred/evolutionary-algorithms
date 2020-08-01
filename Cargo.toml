@@ -1,0 +1,13 @@
+[package]
+name = "genetic-algs"
+version = "0.1.0"
+authors = ["Felix Chapman <aelred717@gmail.com>"]
+edition = "2018"
+
+[build]
+
+[[bin]]
+name = "blog1"
+
+[dependencies]
+rand = "0.7.3"
