@@ -1,3 +1,5 @@
+//! Code for https://blog.ael.red/2020/08/02/evolutionary-algorithms.html
+
 use rand::Rng;
 
 fn main() {
